@@ -4,16 +4,16 @@ This a bash Script to determine which host is reachable or not within a specifie
 #Installation :
 >clone via git clone
 
-'''
+```
 git clone https://github.com/Pragam1/PingSweep
-'''
-'''
+```
+```
 cd PingSweep
-'''
+```
 For Linux
-'''
+```
 bash pingsweep.sh
-'''
+```
 ##Contacts:
 
 >Instagram
