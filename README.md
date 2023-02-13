@@ -21,8 +21,10 @@ https://instagram.com/pragam.gupta
 
 >Github
 https://github.com/Pragam1
+
 >LinkdIn
 https://www.linkedin.com/in/Pragam-gupta-115057203/
+
 ##Warning:
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases. We Are Not Responsible For Damage Caused By Tool***
 
