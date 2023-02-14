@@ -15,7 +15,7 @@ For Linux
 chmod +x pingsweep.sh
 ```
 ./pingsweep.sh
-
+```
 OR
 ```
 bash pingsweep.sh
