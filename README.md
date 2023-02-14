@@ -13,7 +13,6 @@ cd PingSweep
 For Linux
 ```
 chmod +x pingsweep.sh
-```
 ./pingsweep.sh
 ```
 OR
