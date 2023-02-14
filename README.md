@@ -12,8 +12,8 @@ cd PingSweep
 ```
 For Linux
 ```
-->chmod +x pingsweep.sh
-->./pingsweep.sh
+1. chmod +x pingsweep.sh
+2. ./pingsweep.sh
 ```
 OR
 ```
