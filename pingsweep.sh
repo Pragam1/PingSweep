@@ -1,4 +1,5 @@
 #!/bin/bash
+# Shebang
 
 #displaying lines of text or string which are passed as arguments on the command line
 
@@ -31,4 +32,4 @@ done
 
 # tr = translate
 
-# & = allows multithreading [ping all the IPs at once]
+# & = allows multithreading i.e ping all the IPs at once.
